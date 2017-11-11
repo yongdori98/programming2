@@ -1,5 +1,5 @@
 #include<stdio.h>
-//1
+//4
 typedef struct dic{
 	char *english;
 	char *korean[3];
